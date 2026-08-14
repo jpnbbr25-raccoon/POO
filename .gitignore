@@ -1,0 +1,10 @@
+# Binários e executáveis gerados pelo g++
+app
+*.out
+*.exe
+*.o
+main
+
+# Pastas de configuração local do editor
+.vscode/
+build/
