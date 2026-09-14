@@ -16,6 +16,15 @@ int main() {/*
    fim
    */
     int n3, n4; //variaveis locais
+    n3 = 5;
+    n4 = 10;
+
+    n3 = n3+1; //incremento
+    n4 = n4-1; //decremento 
+    n3 +=2; 
+    n4 -=2; 
+
+    n3 ++;
 
     return 0;
 } 
